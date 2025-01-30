@@ -22,7 +22,7 @@ title: Cantopop Corpus Project
 email: jason.yh.lee@mail.mcgill.ca
 description: Jason Y H Lee
 baseurl: "/cantopop" # the subpath of your site, e.g. /blog
-url: "https://jasonleeubc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jasonleeubc.github.io/cantopop" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  jasonleeubc/Cantopop-corpus
 
 # Build settings
