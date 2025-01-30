@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Demographic data"
-nav-include: true
-nav-order: 2
+permalink: /demographic-data/
 ---
 
 This page offers summary statistics on the demographic makeup of the 105-song corpus. See below for the statistics on **singers, composers, and lyricists** featured in the corpus.
