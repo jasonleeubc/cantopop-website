@@ -2,6 +2,8 @@
 layout: page
 title: Links
 permalink: /links/
+nav-include: true
+nav-order: 4
 ---
 
 <a href="https://github.com/jasonleeubc/Cantopop-corpus" target="_blank">GitHub</a>: Github repository of the corpus with Humdrum files of each song <br>

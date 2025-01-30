@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Song List"
+title:  "Song list"
+permalink: /song-list/
 ---
 
 The Cantopop corpus consists of 105 songs from the period 2000–2020, with five songs from each year. The table is sortable by column headers.
